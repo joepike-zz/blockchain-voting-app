@@ -1,0 +1,17 @@
+{
+  "name": "blockchain-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.0.3",
+    "http-server": "^0.11.1",
+    "solc": "^0.4.19",
+    "web3": "^0.20.2"
+  }
+}
